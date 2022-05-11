@@ -4,8 +4,8 @@ Description=Based on a theme designed by jimmac that features a simple spinner. 
 ModuleName=two-step
 
 [two-step]
-Font=Cantarell 12
-TitleFont=Cantarell Light 30
+Font=Noto Sans 12
+TitleFont=Noto Sans Light 30
 ImageDir=/usr/share/plymouth/themes/bgrt-mi
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.682
